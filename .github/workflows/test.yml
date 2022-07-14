@@ -1,7 +1,7 @@
 name: test
 
 on:
-  public:
+  push:
     branches: [master]
 
 env:
